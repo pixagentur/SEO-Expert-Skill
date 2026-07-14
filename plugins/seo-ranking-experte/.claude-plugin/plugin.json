@@ -1,0 +1,10 @@
+{
+  "name": "seo-ranking-experte",
+  "version": "1.1.0",
+  "description": "Agiert wie eine erfahrene SEO-Agentur: analysiert eine URL oder ganze Website, vergibt einen Score (0-1.000), liefert priorisierte Handlungsempfehlungen, fertige Text-Swap-Vorschläge und erzeugt automatisch einen PDF-Report.",
+  "author": {
+    "name": "PIXAGENTUR"
+  },
+  "homepage": "https://github.com/pixagentur/SEO-Expert-Skill",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "seo-expert-skill",
+  "owner": {
+    "name": "pixagentur"
+  },
+  "plugins": [
+    {
+      "name": "seo-ranking-experte",
+      "source": "./plugins/seo-ranking-experte",
+      "description": "Erfahrene SEO-Agentur als Claude-Skill: analysiert URLs/Websites, vergibt einen Score (0-1.000), liefert priorisierte Handlungsempfehlungen und einen automatischen PDF-Report.",
+      "version": "1.1.0"
+    }
+  ]
+}
